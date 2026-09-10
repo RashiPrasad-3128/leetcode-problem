@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
