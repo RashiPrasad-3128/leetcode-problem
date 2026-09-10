@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [3355-zero-array-transformation-i](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/3355-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [3355-zero-array-transformation-i](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/3355-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
