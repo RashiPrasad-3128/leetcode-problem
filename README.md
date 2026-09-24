@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0735-asteroid-collision](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0735-asteroid-collision) |
 | [3355-zero-array-transformation-i](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/3355-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
