@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0735-asteroid-collision) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
