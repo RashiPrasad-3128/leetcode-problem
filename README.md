@@ -88,4 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
