@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -77,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0054-spiral-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
