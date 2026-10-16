@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0326-power-of-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
