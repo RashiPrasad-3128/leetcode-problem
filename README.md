@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashiPrasad-3128/leetcode-problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
